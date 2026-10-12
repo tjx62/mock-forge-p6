@@ -10,6 +10,10 @@
     "node": "20.20.2"
   },
   "devDependencies": {
-    "vitest": "3.2.7"
+    "vitest": "4.1.11"
+  },
+  "overrides": {
+    "vite": "7.3.7",
+    "rollup": "4.64.0"
   }
 }
